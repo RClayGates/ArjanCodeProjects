@@ -4,6 +4,8 @@
 - py --help
   - py --list #(list available python versions)
   - py -m {MOD} #(run module as a script)
+  - py -v #(enter interactive mode with active readout of whats happening)
+  - py -V #(prints out current python version)
 - py -m venv {ENV_DIR}
   - path conventions like ./ or .\ for relative path managment apply
   - creates unique environment for isolation and management
