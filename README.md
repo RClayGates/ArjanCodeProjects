@@ -17,8 +17,9 @@ https://www.youtube.com/watch?v=54XyRw9y8oE
 - To-Do list app
 - Weather app
 - Web Scraper
-- Text Based game
-- Graphics Based game
+- Simple game
+    - Text Based game
+    - Graphics Based game
 - Automation Scripts
 - Simple Chatbot
 - Markdown editor/viewer
