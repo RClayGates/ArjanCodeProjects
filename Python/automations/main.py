@@ -53,4 +53,4 @@ if __name__ == "__main__":
 
 # TODO: Write script that Generates the following per project folder
 # TODONE:     main.py template
-# TODO:     generates .env folder
+# TODONE:     generates .env folder

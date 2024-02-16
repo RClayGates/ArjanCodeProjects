@@ -39,8 +39,8 @@ https://www.youtube.com/watch?v=54XyRw9y8oE
 
 ## Generated Todo's
 ### Python\automations\main.py
-- [ ] line #41: Write script that Generates the following per project folder
-- [x] line #42:     main.py template
-- [ ] line #43:     generates .env folder
+- [ ] line #53: Write script that Generates the following per project folder
+- [x] line #54:     main.py template
+- [x] line #55:     generates .env folder
 ---
 ---
