@@ -36,3 +36,11 @@ https://www.youtube.com/watch?v=54XyRw9y8oE
 - C (or C++)
 - Assembly (Preferebly RISCV)
 
+
+## Generated Todo's
+### Python\automations\main.py
+- [ ] line #41: Write script that Generates the following per project folder
+- [x] line #42:     main.py template
+- [ ] line #43:     generates .env folder
+---
+---
